@@ -1,5 +1,5 @@
 # MovieWorld
-A simple UI with search filters created using ReactJS
+A simple application with search filters created using ReactJS
 
 # UI
 ![image](https://user-images.githubusercontent.com/69900562/160270146-eb476483-6a3a-411b-a018-fd04546ebc21.png)
