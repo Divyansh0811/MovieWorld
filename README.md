@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# MovieWorld
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple UI with search filters created using ReactJS
+#UI
+![image](https://user-images.githubusercontent.com/69900562/160270146-eb476483-6a3a-411b-a018-fd04546ebc21.png)
+#Search filter
+![image](https://user-images.githubusercontent.com/69900562/160270157-1b860cb5-cf84-4eb7-96da-415a1ed91d7f.png)
 
 ## Available Scripts
 
